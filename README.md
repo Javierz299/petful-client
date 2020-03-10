@@ -7,7 +7,7 @@ Petful operates on a first-in, first-out basis. Given a queue of dogs and a queu
 
 
 
-## We'll do it live!
+## live
 
 [Petful Live App](https://y-chi.now.sh/)
 
