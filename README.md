@@ -1,8 +1,5 @@
-# petful-client
-
-# Petful
-
-A pet adoption app built by Sophia Koeut and Wendy Bartos for Thinkful's Engineering Immersion Program.
+# petful team:
+Christina Chapman
 
 ## The project
 
