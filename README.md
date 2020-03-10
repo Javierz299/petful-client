@@ -1,5 +1,5 @@
 # petful team:
-Christina Chapman
+Javier Zapien & Christina Chapman
 
 ## The project
 
