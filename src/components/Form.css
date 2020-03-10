@@ -1,0 +1,20 @@
+.adoption-form {
+  display: flex;
+  flex-direction: column;
+  align-items: justify;
+  height: 200px;
+  justify-content: space-evenly;
+}
+
+.form-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Form__view-pets {
+  background-color: lightseagreen;
+}
+
+input {
+  padding: 10px;
+}
